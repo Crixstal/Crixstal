@@ -1,3 +1,2 @@
 - 👋 Hi, I'm Crixstal, a French student in Game Programming at ISART Digital
-- 📫 How to reach me: manon.mehalin@gmail.com or m.mehalin@student.isartdigital.com (student mail)
 - 👀 I’m interested in game dev, archery, astronomy and Japan
