@@ -11,4 +11,4 @@ I'm mostly interested by AI and Gameplay in the programming field.
 - <ins>**Tools:**</ins> CMake, RenderDoc
 - <ins>**Rendering:**</ins> OpenGL, SDL
 - <ins>**IDE:**</ins> Visual Studio, VSCode, JetBrains Rider, JetBrains CLion
-- <ins>**Versioning:**</ins> Git (+LFS), GitLab, Fork, GitHub, Perforce (P4V)
+- <ins>**Versioning:**</ins> Git (+LFS), GitLab, Fork, GitHub, GitKraken, Perforce (P4V)
